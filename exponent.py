@@ -1,0 +1,6 @@
+num=int(input("enter the number: "))
+print("the square of these number is ",num**2)
+print("the cube of these number is ",num**3)
+print("if you want beyond the square and cube plese enter the exponent below")
+exp=int(input("enter the exponent: "))
+print("the value is ",num**exp)
